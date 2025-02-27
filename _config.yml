@@ -1,0 +1,16 @@
+name: "KCD Taipei"
+author: "KCD Taipei"
+url: "https://i.kcd.taipei"
+
+collections:
+  redirects:
+    output: true
+    permalink: /:path/
+
+include:
+  - images
+
+keep_files:
+  - images
+
+gtm: GTM-PH9VJGKK
